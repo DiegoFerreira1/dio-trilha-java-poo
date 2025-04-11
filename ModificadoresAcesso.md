@@ -57,3 +57,5 @@ class Carro {
 }
 ```
 > Esses modificadores são usados para **encapsulamento**, que é um dos pilares da orientação a objetos, permitindo controlar como os dados e comportamentos de uma classe são acessados.
+
+![modificadores](/img/modificadores.png)
